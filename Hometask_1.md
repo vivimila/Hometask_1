@@ -59,6 +59,6 @@
 
 ## Использовались дополнительные материалы:
 
-![Пример работы](%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1_%2B1_%D0%B2%D0%B5%D1%82%D0%BA%D0%B0_github.PNG)
-
  <https://ru.wikipedia.org/wiki/Visual_Studio_Code>.
+ <https://ru.wikipedia.org/wiki/Visual_Studio_Code>.
+
